@@ -11,6 +11,15 @@ var mySecondVariable = "and look I added two stings together"
 
 var myThirdVariable = myFirstVariable + mySecondVariable
 
-print(myThirdVariable)
+print (myThirdVariable)
 
+var katVariable = "kat"
+
+var tacoVariable = "taco"
+
+var pantsVariable = "pants"
+
+var combineString = katVariable + tacoVariable + pantsVariable
+
+print (combineString)
 
