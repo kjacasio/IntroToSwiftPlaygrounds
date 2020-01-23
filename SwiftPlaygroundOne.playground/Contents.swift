@@ -7,6 +7,7 @@ var str = "Hello, playground"
 var myFirstVariable = "I've Created My First String"
 
 //Declare and assign variable in single line of code
+//Declare and assign variable space
 var mySecondVariable = "and look I added two stings together"
 
 var myThirdVariable = myFirstVariable + mySecondVariable
@@ -27,3 +28,17 @@ print (combineString)
 
 var appState = false
 print(appState)
+
+
+var numberOne = 5
+var numberTwo = 7
+
+var comparison = numberOne < numberTwo
+
+var cheaterVariable = "same"
+
+var liarVarable = "same"
+
+var comparisonTwo = (cheaterVariable == liarVarable)
+
+
