@@ -23,3 +23,7 @@ var combineString = katVariable + tacoVariable + pantsVariable
 
 print (combineString)
 
+//Assignment #2 True or False
+
+var appState = false
+print(appState)
